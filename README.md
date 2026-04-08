@@ -67,24 +67,8 @@ Hey there! I'm **Himanshu Sachdeva** — a B.Tech student in **Mathematics & Com
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshu29092005&show_icons=true&theme=chartreuse-dark&count_private=true&border_color=00FF87&hide=contribs" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshu29092005&show_icons=true&theme=chartreuse-dark&count_private=true&border_color=00FF87" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu29092005&theme=chartreuse-dark&border=00FF87" width="48%" />
-</p>
-
----
-
-## 🌐 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu29092005&layout=compact&theme=chartreuse-dark&langs_count=8&border_color=00FF87" width="50%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=himanshu29092005&theme=matrix&no-frame=true&row=1&column=6&margin-w=10" />
 </p>
 
 ---
