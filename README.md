@@ -33,7 +33,7 @@ Hey there! I'm **Himanshu Sachdeva** — a B.Tech student in **Mathematics & Com
 > 🐱 *Coding with monk-level patience, one problem at a time.*
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/himanshuu2909/himanshuu2909/main/assets/monk_cat.jpg" width="180" title="Monk Cat approves 🙏"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180" title="Monk Cat approves 🙏"/>
 </p>
 
 ---
