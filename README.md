@@ -5,12 +5,13 @@
 
 <!-- Typing effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF87&center=true&vCenter=true&width=500&lines=Mathematics+%26+Computing+%40+RGIPT;DSA+Enthusiast+%7C+300%2B+LeetCode;Aspiring+ML+%26+Cybersecurity+Engineer;Building+logic%2C+one+problem+at+a+time+%F0%9F%94%90" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF87&center=true&vCenter=true&width=600&lines=Mathematics+%26+Computing+%40+RGIPT;DSA+Enthusiast+%7C+300%2B+LeetCode;Aspiring+ML+%26+Cybersecurity+Engineer;Building+logic%2C+one+problem+at+a+time+%F0%9F%94%90" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=himanshu29092005&style=flat-square&color=00FF87&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/himanshu29092005?label=Followers&style=flat-square&color=00B4D8" />
+  <img src="https://img.shields.io/badge/LeetCode-300%2B%20Problems-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/RGIPT-Mathematics%20%26%20Computing-00B4D8?style=flat-square" />
 </p>
 
 ---
@@ -26,7 +27,7 @@ Hey there! I'm **Himanshu Sachdeva** — a B.Tech student in **Mathematics & Com
 - 🔐 Exploring **Cybersecurity** fundamentals
 - 🚀 Goal: Land top internships & build impactful systems
 - 🎯 Currently learning: **Deep Learning & Network Security**
-- 🌐 **Portfolio:** [himanshu29092005-portfolio.vercel.app](https://himanshu29092005-portfolio.vercel.app)
+- 🌐 **Portfolio:** [himanshuu2909-portfolio.vercel.app](https://himanshuu2909-portfolio.vercel.app)
 
 <br clear="right"/>
 
@@ -66,12 +67,8 @@ Hey there! I'm **Himanshu Sachdeva** — a B.Tech student in **Mathematics & Com
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshu29092005&show_icons=true&theme=chartreuse-dark&count_private=true&border_color=00FF87" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshu29092005&show_icons=true&theme=chartreuse-dark&count_private=true&border_color=00FF87&hide=contribs" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu29092005&theme=chartreuse-dark&border=00FF87" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himanshu29092005&theme=chartreuse_dark" width="96%" />
 </p>
 
 ---
@@ -87,15 +84,7 @@ Hey there! I'm **Himanshu Sachdeva** — a B.Tech student in **Mathematics & Com
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=himanshu29092005&theme=matrix&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 🤝 Top Contributed Repos
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=himanshu29092005&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=himanshu29092005&theme=matrix&no-frame=true&row=1&column=6&margin-w=10" />
 </p>
 
 ---
@@ -103,7 +92,7 @@ Hey there! I'm **Himanshu Sachdeva** — a B.Tech student in **Mathematics & Com
 ## 🏅 Achievements
 
 | 🏷️ Badge | 🎯 Description |
-|----------|--------------|
+|----------|--------------| 
 | 🔥 LeetCode Warrior | 300+ problems solved across all difficulty levels |
 | 📈 DSA Stronghold | Consistent problem-solving in Arrays, Trees, Graphs & DP |
 | 🔐 Cyber Explorer | Actively learning network security & ethical hacking basics |
@@ -125,13 +114,13 @@ Hey there! I'm **Himanshu Sachdeva** — a B.Tech student in **Mathematics & Com
   <a href="mailto:sachdevahimanshu2909@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/himanshu29092005/">
+  <a href="https://leetcode.com/u/himanshuu2909/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://www.linkedin.com/in/himanshu-sachdeva-a96118327/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://himanshu29092005-portfolio.vercel.app">
+  <a href="https://himanshuu2909-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-00FF87?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
 </p>
