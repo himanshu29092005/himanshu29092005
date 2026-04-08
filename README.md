@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=himanshuu2909&style=flat-square&color=00FF87&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/himanshuu2909?label=Followers&style=flat-square&color=00B4D8" />
+  <img src="https://komarev.com/ghpvc/?username=himanshu29092005&style=flat-square&color=00FF87&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/himanshu29092005?label=Followers&style=flat-square&color=00B4D8" />
 </p>
 
 ---
@@ -26,7 +26,7 @@ Hey there! I'm **Himanshu Sachdeva** — a B.Tech student in **Mathematics & Com
 - 🔐 Exploring **Cybersecurity** fundamentals
 - 🚀 Goal: Land top internships & build impactful systems
 - 🎯 Currently learning: **Deep Learning & Network Security**
-- 🌐 **Portfolio:** [himanshuu2909-portfolio.vercel.app](https://himanshuu2909-portfolio.vercel.app)
+- 🌐 **Portfolio:** [himanshu29092005-portfolio.vercel.app](https://himanshu29092005-portfolio.vercel.app)
 
 <br clear="right"/>
 
@@ -66,12 +66,12 @@ Hey there! I'm **Himanshu Sachdeva** — a B.Tech student in **Mathematics & Com
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshuu2909&show_icons=true&theme=chartreuse-dark&count_private=true&border_color=00FF87" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuu2909&theme=chartreuse-dark&border=00FF87" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshu29092005&show_icons=true&theme=chartreuse-dark&count_private=true&border_color=00FF87" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu29092005&theme=chartreuse-dark&border=00FF87" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himanshuu2909&theme=chartreuse_dark" width="96%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himanshu29092005&theme=chartreuse_dark" width="96%" />
 </p>
 
 ---
@@ -79,7 +79,7 @@ Hey there! I'm **Himanshu Sachdeva** — a B.Tech student in **Mathematics & Com
 ## 🌐 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuu2909&layout=compact&theme=chartreuse-dark&langs_count=8&border_color=00FF87" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu29092005&layout=compact&theme=chartreuse-dark&langs_count=8&border_color=00FF87" width="50%" />
 </p>
 
 ---
@@ -87,7 +87,7 @@ Hey there! I'm **Himanshu Sachdeva** — a B.Tech student in **Mathematics & Com
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=himanshuu2909&theme=matrix&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=himanshu29092005&theme=matrix&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -95,7 +95,7 @@ Hey there! I'm **Himanshu Sachdeva** — a B.Tech student in **Mathematics & Com
 ## 🤝 Top Contributed Repos
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=himanshuu2909&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=himanshu29092005&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
 
 ---
@@ -125,13 +125,13 @@ Hey there! I'm **Himanshu Sachdeva** — a B.Tech student in **Mathematics & Com
   <a href="mailto:sachdevahimanshu2909@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/himanshuu2909/">
+  <a href="https://leetcode.com/u/himanshu29092005/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://www.linkedin.com/in/himanshu-sachdeva-a96118327/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://himanshuu2909-portfolio.vercel.app">
+  <a href="https://himanshu29092005-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-00FF87?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
 </p>
